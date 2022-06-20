@@ -1,0 +1,2 @@
+name = "hogehoge"
+puts name
